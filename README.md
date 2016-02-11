@@ -41,6 +41,6 @@ Some of the topics we've covered so far:
 
 #### Deliverable
 
-> Link to your article: [Title of Article](http://Link.To.Article)
+> Link to your article: [Importance of Prototyping](https://medium.com/@adityo/the-importance-of-prototyping-c2fa9e5bd7f5#.wgoq4u8ag)
 
 Edit this readme, and put the link to the article above. Make a pull request, with the request titled "Your Name - Medium Article".
