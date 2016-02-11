@@ -41,6 +41,6 @@ Some of the topics we've covered so far:
 
 #### Deliverable
 
-> Link to your article: [Title of Article](http://Link.To.Article)
+> Link to your article: [3 Things That You Should Keep In Mind When Learning Programming](https://medium.com/@WasabiMayo/3-things-that-you-should-keep-in-mind-when-learning-programming-87db59855330#.sskg1d9u8)
 
 Edit this readme, and put the link to the article above. Make a pull request, with the request titled "Your Name - Medium Article".
