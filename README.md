@@ -1,3 +1,7 @@
+https://medium.com/@shum.chris/android-event-handlers-44376020eead#.hbq2yhswh
+
+
+
 ---
 title: Medium Article Homework 1
 type: Homework
