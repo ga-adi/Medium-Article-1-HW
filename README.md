@@ -43,4 +43,6 @@ Some of the topics we've covered so far:
 
 > Link to your article: [Title of Article](http://Link.To.Article)
 
+Android Activities and Their Lifecycle (https://medium.com/@acjones1991/android-activities-and-their-lifecycle-55bbb3655ae9#.bw70lgodm)
+
 Edit this readme, and put the link to the article above. Make a pull request, with the request titled "Your Name - Medium Article".
