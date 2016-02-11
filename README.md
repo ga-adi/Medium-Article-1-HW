@@ -41,6 +41,6 @@ Some of the topics we've covered so far:
 
 #### Deliverable
 
-> Link to your article: [Title of Article](http://Link.To.Article)
+> Link to your article: [Android Event Handlers] (https://medium.com/@charlesdrews/android-event-handlers-f3681a3c3d8a#.ozhy3rn72)
 
 Edit this readme, and put the link to the article above. Make a pull request, with the request titled "Your Name - Medium Article".
