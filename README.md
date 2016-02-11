@@ -41,6 +41,6 @@ Some of the topics we've covered so far:
 
 #### Deliverable
 
-> Link to your article: [Title of Article](http://Link.To.Article)
+> Link to your article: [Android, Java, Custom Adapters, and lots of Coffee…] (https://medium.com/@Mikekwon36/android-java-custom-adapters-and-lots-of-coffee-e81e44e599ed#.rl1gajc9r)
 
 Edit this readme, and put the link to the article above. Make a pull request, with the request titled "Your Name - Medium Article".
