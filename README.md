@@ -41,6 +41,6 @@ Some of the topics we've covered so far:
 
 #### Deliverable
 
-> Link to your article: [Title of Article](http://Link.To.Article)
+> Link to your article: [Now this is a story… about Career Change. Part 1. ](https://medium.com/@jafoole/now-this-is-a-story-about-career-change-part-1-cfdc8bd2c3e1#.5bjxebs60)
 
 Edit this readme, and put the link to the article above. Make a pull request, with the request titled "Your Name - Medium Article".
