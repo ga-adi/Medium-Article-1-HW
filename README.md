@@ -41,6 +41,6 @@ Some of the topics we've covered so far:
 
 #### Deliverable
 
-> Link to your article: [Title of Article](http://Link.To.Article)
+> Link to your article: [Journeying into Android Development](https://medium.com/@QuothTheRavings/journeying-into-android-development-fc9e847cee18#.crdcb3rf2)
 
 Edit this readme, and put the link to the article above. Make a pull request, with the request titled "Your Name - Medium Article".
