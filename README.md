@@ -43,4 +43,6 @@ Some of the topics we've covered so far:
 
 > Link to your article: [Title of Article](http://Link.To.Article)
 
+WILLS ARTICLE: https://medium.com/@freshprincewilliam/android-the-new-frontier-91610e532094#.jklfvl9jl 
+
 Edit this readme, and put the link to the article above. Make a pull request, with the request titled "Your Name - Medium Article".
