@@ -41,6 +41,6 @@ Some of the topics we've covered so far:
 
 #### Deliverable
 
-> Link to your article: [Title of Article](http://Link.To.Article)
+> Link to your article: [Pay No Attention to the Abstraction Behind the Curtain](https://medium.com/@kylemcnee/pay-no-attention-to-the-abstraction-behind-the-curtain-a3489355d34e#.ywf8mhlrr)
 
 Edit this readme, and put the link to the article above. Make a pull request, with the request titled "Your Name - Medium Article".
