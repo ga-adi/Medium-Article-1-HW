@@ -41,6 +41,7 @@ Some of the topics we've covered so far:
 
 #### Deliverable
 
-> Link to your article: [Title of Article](http://Link.To.Article)
+> Link to my article: [Are these the Androids you are looking for?..](https://medium.com/@ypsitos/are-these-the-androids-you-are-looking-for-abae082fe2a0#.7q0mar5dm)
 
 Edit this readme, and put the link to the article above. Make a pull request, with the request titled "Your Name - Medium Article".
+(Done)
